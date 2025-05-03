@@ -27,7 +27,7 @@ serplist.remove ("vibora rayada")
 print(serplist)
 
 #ordenar (sort) la lista
-serpiente_dos.sort()
+serplist.sort()
 print(serplist)
 
 #invertir (reverse) la lista
@@ -35,7 +35,7 @@ serplist.reverse()
 print(serplist)
 
 #comprobar (in:dentro) si un elemnto esa está en la lista
-print ("pinton" in serplist)
+print ("Boa constricto" in serplist)
 
 #contar (contar) numero de veces que está un elemento
-print(serplist.count("pitón"))
+print(serplist.count("pitón gigante"))
